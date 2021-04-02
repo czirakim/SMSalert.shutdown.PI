@@ -16,7 +16,7 @@ The project is made of multiple python scripts:
 
 
 <br> On my blog post you can find more info: 
-
+<br> https://latebits.com/2021/04/02/alert-via-sms-and-shutdown-the-power/
 
 ## Credits
 This was written by Mihai Cziraki
