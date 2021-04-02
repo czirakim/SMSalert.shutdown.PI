@@ -4,7 +4,7 @@
 ## SMSalert.shutdown.PI
 
 The scope of this project is to alert via SMS in case a temperature
-<br> threshold is reached and also switch off the power smart plug.  
+<br> threshold is reached and also switch off the power of the smart plug.  
 
 
 ## Usage
